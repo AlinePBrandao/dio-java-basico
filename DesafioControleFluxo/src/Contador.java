@@ -25,12 +25,12 @@ public class Contador {
         sc.close();
     }
 
-    static void contar(int parametro1, int parametro2) throws ParametrosInvalidosException {
-        if (parametro1 > parametro2) {
+    static void contar(int num1, int num2) throws ParametrosInvalidosException {
+        if (num1 > num2) {
             throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro");
         }
 
-        int quantidade = parametro2 - parametro1;
+        int quantidade = num2 - num1;
 
         for (int i = 1; i <= quantidade; i++) {
             System.out.println("Imprimindo o número " + i);

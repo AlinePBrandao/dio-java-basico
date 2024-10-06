@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProcessoSeletivo/ProcessoSeletivo.iml" filepath="$PROJECT_DIR$/ProcessoSeletivo/ProcessoSeletivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telefonia/Telefonia.iml" filepath="$PROJECT_DIR$/Telefonia/Telefonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
     </modules>
   </component>
