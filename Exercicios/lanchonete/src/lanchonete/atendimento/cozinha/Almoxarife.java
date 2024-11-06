@@ -1,4 +1,4 @@
-package lanchonete.atendimento;
+package lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
 }

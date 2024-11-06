@@ -1,3 +1,5 @@
+package Atividades;
+
 public class SmartTv {
 
     boolean ligada = true;

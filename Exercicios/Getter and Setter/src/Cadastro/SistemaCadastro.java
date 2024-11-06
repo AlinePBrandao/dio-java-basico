@@ -1,4 +1,4 @@
-package Escola;
+package Cadastro;
 
 public class SistemaCadastro {
     public static void main(String[] args){
