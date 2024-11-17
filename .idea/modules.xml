@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BancoDigital/BancoDigital.iml" filepath="$PROJECT_DIR$/BancoDigital/BancoDigital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioBootcamp/DesafioBootcamp.iml" filepath="$PROJECT_DIR$/DesafioBootcamp/DesafioBootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Getter and Setter/Getter and Setter.iml" filepath="$PROJECT_DIR$/Exercicios/Getter and Setter/Getter and Setter.iml" />
